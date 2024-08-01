@@ -1,0 +1,6 @@
+{
+    "autopep8.args": [
+        "--max-line-width", "125",
+
+    ]
+}
